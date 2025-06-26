@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884274629605",
+    "project_id": "food-cycle-app",
+    "storage_bucket": "food-cycle-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884274629605:android:f1377c0db00029e0d2fd0c",
+        "android_client_info": {
+          "package_name": "com.example.food_cycle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbyRWcn0rOavf7L7kIW9EWXBKb6DRNf94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
