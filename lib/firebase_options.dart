@@ -48,21 +48,4 @@ class DefaultFirebaseOptions {
         );
     }
   }
-
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDW09sQZVmX6q9NTo8IVYTUNdc2ltZFWhU',
-    appId: '1:884274629605:web:d52fe34cdf06bea5d2fd0c',
-    messagingSenderId: '884274629605',
-    projectId: 'food-cycle-app',
-    authDomain: 'food-cycle-app.firebaseapp.com',
-    storageBucket: 'food-cycle-app.firebasestorage.app',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDbyRWcn0rOavf7L7kIW9EWXBKb6DRNf94',
-    appId: '1:884274629605:android:f1377c0db00029e0d2fd0c',
-    messagingSenderId: '884274629605',
-    projectId: 'food-cycle-app',
-    storageBucket: 'food-cycle-app.firebasestorage.app',
-  );
 }
